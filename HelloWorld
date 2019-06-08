@@ -3,6 +3,8 @@ Class Hello
 public static void main(String args[])
 {
 int x,y;
+bufferreader.newbufferreader(x);
+bufferreader.newbufferreader(y);
 System.out.println("Hello");
 System.out.println("Hello World");
 System.out.println(x*x);
