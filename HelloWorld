@@ -3,9 +3,11 @@ Class Hello
 public static void main(String args[])
 {
 int x,y;
+//please take input from user
 System.out.println("Hello");
 System.out.println("Hello World");
 System.out.println(x*x);
-System.out.println(x*y);
+System.out.println(x*y
+
 }
 }
