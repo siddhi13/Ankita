@@ -1,8 +1,10 @@
 Class Hello
 {
-Public static void main(String args[])
+public static void main(String args[])
 {
+int x,y;
 System.out.println("Hello");
 System.out.println("Hello World");
+System.ooy.println(x*x);
 }
 }
